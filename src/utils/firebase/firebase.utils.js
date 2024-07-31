@@ -14,12 +14,12 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCaGCQWU8V7jDdXbaVaWRiTCG1LtJ0S19w',
-  authDomain: 'clothing-store-d8ce6.firebaseapp.com',
-  projectId: 'clothing-store-d8ce6',
-  storageBucket: 'clothing-store-d8ce6.appspot.com',
-  messagingSenderId: '744307278181',
-  appId: '1:744307278181:web:a027c4f01326187eb5a18c',
+  apiKey: 'dont-know',
+  authDomain: 'clothing-.firebaseapp.com',
+  projectId: 'clothin6',
+  storageBucket: 'clothing-stoappspot.com',
+  messagingSenderId: '7443181',
+  appId: '1:74430781:web:a027c4f87eb5a18c',
 };
 
 const app = initializeApp(firebaseConfig);
